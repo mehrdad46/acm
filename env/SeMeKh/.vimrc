@@ -1,0 +1,9 @@
+:set ts=2
+:set sw=2
+:colorscheme darkblue
+:set t_Co=256
+:set cindent
+:set number
+:set autoindent
+:set cindent
+:syntax on
